@@ -1,0 +1,197 @@
+@keyframes myanimation{
+	0%{
+		opacity:0.2;
+	}
+	20%{
+		opacity:0.4;
+	}
+	40%{
+		opacity:0.6;
+	}
+	60%{
+		opacity:0.8;
+	}
+	80%{
+		opacity:0.9;
+	}
+
+	100%{
+		opacity:1;
+	}
+}
+@media(max-width:4096px){
+#AnimateStyle{
+	left:0px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+}
+#AnimateStyle > h5{
+	color:white;
+	font-weight:bold;
+	top:10px;
+	position:relative;
+}
+}
+@media(max-width:800px){
+#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+}
+#AnimateStyle > h5{
+	color:white;
+	font-weight:bold;
+	top:10px;
+	position:relative;
+}
+}
+
+@media(max-width:1100px){
+	#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+	}
+	#AnimateStyle > h5{
+		color:white;
+		font-weight:bold;
+		top:10px;
+		position:relative;
+	}
+	.card-footer  center  h3{
+		position:relative;
+		left:0px;
+	}
+
+
+}
+@media(max-width:1000px){
+	#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+	}
+	#AnimateStyle > h5{
+		color:white;
+		font-weight:bold;
+		top:10px;
+		position:relative;
+	}
+	.card-footer  center  h3{
+		position:relative;
+		left:0px;
+	}
+}
+@media(max-width:900px){
+	#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+	}
+	#AnimateStyle > h5{
+		color:white;
+		font-weight:bold;
+		top:10px;
+		position:relative;
+	}
+	.card-footer  center  h3{
+		position:relative;
+		left:0px;
+	}
+}
+@media(max-width:800px){
+	#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+	}
+	#AnimateStyle > h5{
+		color:white;
+		font-weight:bold;
+		top:10px;
+		position:relative;
+	}
+	.card-footer  center  h3{
+		position:relative;
+		left:0px;
+	}
+}
+@media(max-width:700px){
+	#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+	}
+	#AnimateStyle > h5{
+		color:white;
+		font-weight:bold;
+		top:10px;
+		position:relative;
+	}
+	.card-footer  center  h3{
+		position:relative;
+		left:0px;
+	}
+}
+@media(max-width:600px){
+	#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+	}
+	#AnimateStyle > h5{
+		color:white;
+		font-weight:bold;
+		top:10px;
+		position:relative;
+	}
+	.card-footer  center  h3{
+		position:relative;
+		left:0px;
+	}
+}
+@media(max-width:500px){
+	#AnimateStyle{
+	left:200px;
+	border-radius:50%;
+	height:50px;width:50px;
+	background-color:#4359F6;
+	position:relative;
+	animation: myanimation 0.5s infinite;
+	}
+	#AnimateStyle > h5{
+		color:white;
+		font-weight:bold;
+		top:10px;
+		position:relative;
+	}
+	.card-footer  center  h3{
+		position:relative;
+		left:0px;
+	}
+}
+

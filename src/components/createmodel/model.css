@@ -1,0 +1,21 @@
+@media(max-width:4096px){
+	#modelcard{
+		position:relative;left:5px;
+	}
+	.form-group  input{
+		width:400px;
+	}
+
+}
+@media(max-width:800px){
+	#modelcard{
+		position:relative;left:80px;
+	}
+	.form-group  input{
+		width:300px;
+	}
+	.form-group{
+		position:relative;
+		left:220px;
+	}
+}

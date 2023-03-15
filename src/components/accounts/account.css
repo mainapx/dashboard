@@ -1,0 +1,152 @@
+@media (max-width:4096px){
+	option{
+		background-color:#F1EFE3;
+	}
+	#myoptions{
+		background-color:#F1EFE3;
+		outline:1px solid;
+	}
+
+	#createbutton{
+		background-color:red;
+		color:white;
+		font-weight:bold;
+		width:100%;
+	}
+	input[type="checkbox"]{
+		width:130px;
+	}
+	#checkboxul2 >label{
+		width:20px;
+	}
+	#titleadmin{
+		position:relative;
+		text-align:left;
+	}
+	#titleadmin > li{
+		width:200px;
+	}
+	#checkspin{
+		height:20px;
+		width:20px;
+		position:relative;
+		left:200px;
+		top: -30px;
+	}
+	#titleadmin{
+		position:relative;
+		margin-left:10px;
+	}
+	#tableform{
+		position:relative;
+		left:0;
+	}
+	#firstul > li input{
+		border:0.5px solid blue;
+		width:200px;
+	} 
+	#firstul{
+		display:flex;
+		justify-content: space-between;
+	}
+
+
+}
+
+
+@media(max-width:1300px){
+	
+}
+@media(max-width:1200px){
+	
+}
+@media(max-width:1100px){
+	#adminuser{
+		width:1200px;
+		position:relative;	
+		right:50px;
+	}
+	center > h3{
+		position:relative;
+		left:100px;
+	}	
+	#adminuser > .card-body > ul > li:not(:last-child) input{
+		width:300px;
+	}
+	
+	
+
+}
+@media(max-width:1000px){
+
+	#adminuser{
+		width:1200px;
+		position:relative;	
+		left:40px;
+	}
+	center > h3{
+		position:relative;
+		left:150px;
+	}	
+	#adminuser > .card-body > ul > li:not(:last-child) input{
+		width:300px;
+	}
+	#formtest{
+		position: relative;
+		left:100px;
+	}
+	#checkoption{
+		position: relative;
+		left:0px;
+		padding-left:20%;
+	}
+
+
+}
+@media(max-width:900px){
+	#adminuser{
+		width:1200px;
+		position:relative;	
+		left:50px;
+	}
+	#formtest{
+		position: relative;
+		left:100px;
+	}
+	center > h3{
+		position:relative;
+		left:230px;
+	}	
+	#adminuser > .card-body > ul > li:not(:last-child) input{
+		width:300px;
+	}
+	#checkoption{
+		position: relative;
+		left:000px;
+		padding-left:20%;
+	}
+	#myoptions{
+		width:650px;
+	}
+
+	#myoptions option{
+		position:relative;
+		width:50px;
+		left:200px;
+		padding-right:200px;
+	}
+	
+	
+}
+@media(max-width:800px){
+	
+}
+@media(max-width:700px){
+	
+}
+@media(max-width:600px){
+	
+}
+@media(max-width:500px){
+	
+}

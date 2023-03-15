@@ -1,0 +1,13 @@
+@media(max-width:4096px){
+	#structure{
+		position:relative;
+		left:-50px;
+		right:0;
+	}
+
+}
+@media(max-width:800px){
+	#editcard{
+		position:relative;left:80px;
+	}
+}

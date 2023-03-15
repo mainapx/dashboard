@@ -1,0 +1,57 @@
+@media(max-width:4096px){
+	#testflex > li{
+		margin:0;
+	}
+	#logjumbo{
+		width:100%;
+	}
+}
+@media(max-width:1300px){
+	#logjumbo{
+		width:1200px;
+	}
+
+}
+@media(max-width:1200px){
+	#logjumbo{
+		width:1100px;
+	}
+
+}
+@media(max-width:1100px){
+	#logjumbo{
+		width:1300px;
+	}
+
+}
+@media(max-width:1000px){
+	#logjumbo{
+		width:1300px;
+	}
+
+}
+@media(max-width:900px){
+	#logjumbo{
+		width:1300px;
+	}
+
+}
+
+@media(max-width:700px){
+	#logjumbo{
+		width:1300px;
+	}
+
+}
+@media(max-width:600px){
+	#logjumbo{
+		width:1200px;
+	}
+
+}
+@media(max-width:500px){
+	#logjumbo{
+		width:1200px;
+	}
+
+}

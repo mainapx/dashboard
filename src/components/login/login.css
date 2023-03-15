@@ -1,0 +1,54 @@
+
+@media(max-width:4096px){
+
+
+	#firsting  input{
+		position:relative;
+		width:100%;
+		padding-left:30px;
+	}
+	#seconding  input{
+		padding-left:30px;
+		position:relative;
+		width:100%;
+	}
+	#firsting >i ,#seconding > i{
+		position:absolute;
+	}
+	#myloginbtn{
+		background-color:#885052;
+		width:100%;
+	}
+	#loginform{
+		position: relative;
+
+	}
+
+
+}
+@media(max-width:800px){
+	#firsting  input{
+		position:relative;
+		width:100%;
+		
+		padding-left:30px;
+	}
+	#seconding  input{
+		padding-left:30px;
+		position:relative;
+		width:100%;
+	}
+	#firsting >i ,#seconding > i{
+		position:absolute;
+	}
+	#myloginbtn{
+		background-color:#885052;
+		width:100%;
+	}
+	#loginform{
+		position: relative;
+		left:0;
+
+	}
+	
+}

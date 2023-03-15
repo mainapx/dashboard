@@ -1,0 +1,44 @@
+
+
+@media(max-width:4096px){
+.apexcharts-menu-icon{
+	display:none;
+}
+.position-top{
+	display:none;
+}
+#testLi li:nth-child(1){
+	color:blue;
+}
+#testLi li:nth-child(2){
+	color:red;
+}
+
+#testLi li:nth-child(3){
+	color:yellow;
+}
+
+#testLi li:nth-child(4){
+	color:green;
+}
+
+#testLi {
+	list-style:none;
+	color:black;
+}
+#testLi li{
+	padding:0;
+}
+#testLi li span{
+	color:black;
+}
+#testLi li:before{
+	content:'\2022';
+	font-size:3vw;
+	top:0.5vw;
+	position:relative;
+}
+#structure{
+	position:relative;
+}
+}
